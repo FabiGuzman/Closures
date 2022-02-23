@@ -49,6 +49,7 @@
 		3F5059BB27C69DE800CB372E /* ClosuresUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ClosuresUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3F5059BF27C69DE800CB372E /* ClosuresUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClosuresUITests.swift; sourceTree = "<group>"; };
 		3F5059C127C69DE800CB372E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3F5059D027C6AC0300CB372E /* Closures.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Closures.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +107,7 @@
 				3F5059A627C69DE700CB372E /* Assets.xcassets */,
 				3F5059A827C69DE700CB372E /* LaunchScreen.storyboard */,
 				3F5059AB27C69DE700CB372E /* Info.plist */,
+				3F5059D027C6AC0300CB372E /* Closures.playground */,
 			);
 			path = Closures;
 			sourceTree = "<group>";
